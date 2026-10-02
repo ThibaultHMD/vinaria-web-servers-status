@@ -3,7 +3,9 @@ import ServiceName from '../components/ServiceName.vue'
 </script>
 
 <template>
-  <ServiceName />
+  <div class="header-container w-full px-[8%] py-4">
+    <ServiceName />
+  </div>
 </template>
 
 <style scoped>
