@@ -39,7 +39,7 @@ onMounted(() => {
       <!-- En-tête avec résumé & contrôle -->
       <header class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-6 bg-zinc-900/60 border border-zinc-800/80 rounded-2xl backdrop-blur">
         <div>
-          <h1 class="text-2xl font-bold tracking-tight">Supervision Dashboard</h1>
+          <h1 class="text-2xl font-bold tracking-tight">Tableau de bord</h1>
           <p class="text-xs text-zinc-400 mt-1">État des services en temps réel</p>
         </div>
 
