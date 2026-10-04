@@ -1,0 +1,68 @@
+[
+  {
+    "id": "vinaria-proxy",
+    "name": "Proxy - Vinaria Network",
+    "type": "minecraft",
+    "target": "play.vinaria-mc.com"
+  },
+  {
+    "id": "vinaria-lobby01",
+    "name": "Lobby01 - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25566"
+  },
+  {
+    "id": "vinaria-pvpbox",
+    "name": "PvP - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25578"
+  },
+  {
+    "id": "vinaria-pitchout",
+    "name": "Pitchout - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25574"
+  },
+  {
+    "id": "vinaria-spleef",
+    "name": "Spleef - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25575"
+  },
+  {
+    "id": "vinaria-tntrun",
+    "name": "TNTrun - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25576"
+  },
+  {
+    "id": "vinaria-hikabrain",
+    "name": "HikaBrain - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25577"
+  },
+  {
+    "id": "vinaria-sc",
+    "name": "Survival Contest - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25571"
+  },
+  {
+    "id": "vinaria-fk",
+    "name": "Fallen Kingdom - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25569"
+  },
+  {
+    "id": "vinaria-build",
+    "name": "Build - Vinaria Network",
+    "type": "minecraft",
+    "target": "game01.vakyum.fr:25658"
+  },
+  {
+    "id": "vinaria-website",
+    "name": "Site Web (Azuriom CMS)",
+    "type": "http",
+    "target": "https://vinaria-mc.com"
+  }
+]
