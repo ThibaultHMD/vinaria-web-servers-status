@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 /.vscode/
 /web-servers-status.iml
+/src/config/services.json

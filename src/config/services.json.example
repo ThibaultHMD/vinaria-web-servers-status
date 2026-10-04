@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mc-proxy",
+    "name": "MC proxy",
+    "type": "minecraft",
+    "target": "proxy.test.com"
+  },
+  {
+    "id": "mc-survival",
+    "name": "My Server",
+    "type": "minecraft",
+    "target": "play.test.com"
+  },
+  {
+    "id": "website",
+    "name": "Website",
+    "type": "http",
+    "target": "https://test.com"
+  }
+]
