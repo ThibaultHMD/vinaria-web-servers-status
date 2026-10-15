@@ -1,6 +1,7 @@
 <script setup>
 import Header from './components/Header.vue'
 import Footer from "./components/Footer.vue"
+import { Analytics } from '@vercel/analytics/vue'
 
 import { onMounted, computed } from 'vue'
 import { useServicesManager } from './composables/useServicesManager'
@@ -28,6 +29,7 @@ onMounted(() => {
 </script>
 
 <template>
+  <Analytics />
   <div class="flex-1 flex flex-col justify-between">
     <section id="top">
       <Header />
